@@ -1,0 +1,41 @@
+{
+  "index.css": {
+    "file": "assets/index-9f31691d.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/two-037bf36d.jpg",
+      "assets/Element-01ee1843.svg",
+      "assets/three-8527626f.jpg",
+      "assets/logo-a926a116.jpg",
+      "assets/four-fa5b5e3b.png"
+    ],
+    "css": [
+      "assets/index-9f31691d.css"
+    ],
+    "file": "assets/index-5286428d.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/assets/Element.svg": {
+    "file": "assets/Element-01ee1843.svg",
+    "src": "src/assets/Element.svg"
+  },
+  "src/assets/four.png": {
+    "file": "assets/four-fa5b5e3b.png",
+    "src": "src/assets/four.png"
+  },
+  "src/assets/logo.jpg": {
+    "file": "assets/logo-a926a116.jpg",
+    "src": "src/assets/logo.jpg"
+  },
+  "src/assets/three.jpg": {
+    "file": "assets/three-8527626f.jpg",
+    "src": "src/assets/three.jpg"
+  },
+  "src/assets/two.jpg": {
+    "file": "assets/two-037bf36d.jpg",
+    "src": "src/assets/two.jpg"
+  }
+}
